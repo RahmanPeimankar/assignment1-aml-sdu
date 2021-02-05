@@ -1,4 +1,4 @@
-# Assignments for Applied Machine Learning course at SDU
+# Assignments for Applied Machine Learning course - SDU
 
 In this repository you can find the four assignments for Applied Machine Learning course.
 
